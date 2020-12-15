@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://www.bestbuy.com/site/sony-playstation-5-console/6426149.p?skuId=6426149",
+    "keyword": "cart.svg",
+    "alert": true,
+    "method": "GET_SELENIUM",
+    "name": "ps5-DISC",
+    "enabled": true
+  },
+  {
+    "url": "https://www.bestbuy.com/site/combo/ps5-consoles/96be4c49-d98e-47c6-9a68-291c646d0e47",
+    "keyword": "cart.svg",
+    "alert": true,
+    "method": "GET_SELENIUM",
+    "name": "ps5-SPIDERBUNDLE",
+    "enabled": true
+  }
+]
